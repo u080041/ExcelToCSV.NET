@@ -5,6 +5,7 @@ C#.NET
 * Will convert just by specifying the excel filename, tab to convert, and extension.
 * Will convert Excel to CSV even without Excel installed. 
   However, 2007 Office System Driver: Data Connectivity Components will be required instead. That is available free from http://www.microsoft.com/en-sg/download/details.aspx?id=23734
+* Currently only runs on a Windows Machine. 
 
 
 
