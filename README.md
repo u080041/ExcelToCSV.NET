@@ -14,6 +14,8 @@ C#.NET
 
 Usage
 =====
+Compile ExcelToCSV.cs and run on a .NET server. Goes well with jQuery / front end JS that parses JSON response.
+
 [URL_PATH].aspx?etc_input=[INPUT_PATH]&etc_tab=[TAB_OF_EXCEL]&etc_ext=[XLS/XLSX]
 
 Returns JSON {"result":"success"} if successful. Else {"result":"Error: ..."}
