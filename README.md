@@ -1,3 +1,6 @@
+A simple low cost project to allow Excel to CSV conversions!
+
+
 C#.NET
 ======
 .NET application for converting Excel to CSV.
@@ -22,3 +25,9 @@ Requirements
 * Runs on Windows Machine. Tested on Windows 7, .NET Framework 4.0
 * If Microsoft Excel is not installed on Machine, 2007 Office System Driver: Data Connectivity Components can be used instead. 
   That is provided free by Microsoft @ http://www.microsoft.com/en-sg/download/details.aspx?id=23734
+
+
+
+Disclaimers
+===========
+* May not work well with unicode text. ASCII is fine.
